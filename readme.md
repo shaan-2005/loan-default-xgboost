@@ -46,4 +46,4 @@ Predict loan default (`TARGET = 1`) using structured customer data, including cr
 4. Run the notebook:
 
 ```bash
-jupyter notebook notebooks/loan_default_model.ipynb
+jupyter notebook notebooks/loan_default_project.ipynb
